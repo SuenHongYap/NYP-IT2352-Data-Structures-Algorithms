@@ -11,7 +11,7 @@ Part 1 is related to the development of a Sales Inventory. Part 2 is a challenge
 
 The purpose of the Sales Inventory is to allow the user to manage sales records. They can display, add, update and remove product records from the inventory, perform searching and sorting of records, and other additional features that improve the usefulness of the application for the user.
 
-1. Sales Inventory – Basic Features (5%)
+1. Sales Inventory – Basic Features
     1. Design a suitable data structure (e.g. by making use of Python list, dictionary, objects, etc.) to manage the product records. You are required to store the following product records with information such as: **record index, Product Name, Unit Price, Quantity and at least TWO OTHER information** of your choice. Each record will have the above attributes. The application inventory will store up to 20 records.
     2. Design a **menu** for the application to allow the user to perform the following:
         1. Add Record
@@ -22,3 +22,7 @@ The purpose of the Sales Inventory is to allow the user to manage sales records.
         6. Search Record
         7. Exit Application
       3. Complete the (Add, Update, Remove and Display) operations
+      
+2. Sales Inventory – Search and Sort Algorithms
+Add the following features to the Sales Inventory.
+    1. Complete the Sort Record option. Student must implement 3 sorting algorithms. They are Bubble, Selection and Insertion Sort algorithms to sort records based on a sort key e.g. Product Name, Quantity etc. Student can decide on which sort key to apply.
