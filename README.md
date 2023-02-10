@@ -14,4 +14,4 @@ The purpose of the Sales Inventory is to allow the user to manage sales records.
 1. Sales Inventory – Basic Features (5%)
     1. Design a suitable data structure (e.g. by making use of Python list, dictionary, objects, etc.) to manage the product records. You are required to store the following product records with information such as: **record index, Product Name, Unit Price, Quantity and at least TWO OTHER information** of your choice. Each record will have the above attributes. The application inventory will store up to 20 records.
     2. Design a **menu** for the application to allow the user to perform the following:
-      3. Add Record
+        a. Add Record
