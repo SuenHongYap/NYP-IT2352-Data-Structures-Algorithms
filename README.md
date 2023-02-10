@@ -40,4 +40,4 @@ For example, if SEQ is provided to your program as follows:
 
 **SEQ:**
 | Command | Description | Description | Description | Description | Description | Description | Description |
-| --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
