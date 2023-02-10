@@ -39,5 +39,5 @@ Given a sequence of positive integers, **SEQ**, sorted in ascending order, desig
 For example, if SEQ is provided to your program as follows:
 
 **SEQ:**
-| Command | Description | Description | Description | Description | Description | Description | Description |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2 | 3 | 3 | 4 | 4 | 4 | 10 | 10 | 10 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
