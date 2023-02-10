@@ -41,3 +41,13 @@ For example, if SEQ is provided to your program as follows:
 **SEQ:**
 | 1 | 2 | 3 | 3 | 4 | 4 | 4 | 10 | 10 | 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+The sample output is given below:
+X=3, Y=3
+X=4, Y=4
+X=4, Y=4
+X=4, Y=4
+X=10, Y=10
+X=10, Y=10
+X=10, Y=10
+Total match is 7.
