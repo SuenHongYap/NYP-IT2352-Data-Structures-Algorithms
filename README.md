@@ -15,3 +15,10 @@ The purpose of the Sales Inventory is to allow the user to manage sales records.
     1. Design a suitable data structure (e.g. by making use of Python list, dictionary, objects, etc.) to manage the product records. You are required to store the following product records with information such as: **record index, Product Name, Unit Price, Quantity and at least TWO OTHER information** of your choice. Each record will have the above attributes. The application inventory will store up to 20 records.
     2. Design a **menu** for the application to allow the user to perform the following:
         1. Add Record
+        2. Update Selected Record
+        3. Remove Record
+        4. Display All Records
+        5. Sort Record
+        6. Search Record
+        7. Exit Application
+      3. Complete the (Add, Update, Remove and Display) operations
