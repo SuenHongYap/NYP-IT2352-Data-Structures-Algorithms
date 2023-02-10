@@ -24,7 +24,7 @@ The purpose of the Sales Inventory is to allow the user to manage sales records.
       3. Complete the (Add, Update, Remove and Display) operations
       
 2. Sales Inventory – Search and Sort Algorithms. 
-    3. Add the following features to the Sales Inventory.
+    1. Add the following features to the Sales Inventory.
         1. Complete the Sort Record option. Student must implement 3 sorting algorithms. They are **Bubble, Selection and Insertion Sort** algorithms to sort records based on a sort key e.g. Product Name, Quantity etc. Student can decide on which sort key to apply.
         2. Complete the Search Record option. Student will apply 2 search algorithms. They are **Linear and Binary Search** algorithm to search for record based on a search key. Student will decide which search key but must implement both search algorithms.
         3. Student may add in bonus features such as exception handling, advanced algorithms etc.
