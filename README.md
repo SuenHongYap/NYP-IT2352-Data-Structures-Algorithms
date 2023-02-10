@@ -40,3 +40,7 @@ For example, if SEQ is provided to your program as follows:
 
 **SEQ:**
 | 1  | 2  | 3  | 3  | Content Cell  | Content Cell  |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
