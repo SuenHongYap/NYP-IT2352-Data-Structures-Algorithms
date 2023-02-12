@@ -43,6 +43,7 @@ For example, if SEQ is provided to your program as follows:
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 The sample output is given below:
+
 X=3, Y=3
 
 X=4, Y=4
